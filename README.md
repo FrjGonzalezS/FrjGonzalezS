@@ -17,10 +17,11 @@ Poseo conocimientos en gestión de proyectos, análisis de datos, programación,
 - **Metodologías**: CRISP-DM, SCRUM, Agile
 
 ### Experiencia
-- **Analisis de datos-Modelo predictivo**: Manejo de herramientas y técnicas de análisis de datos, aplicadas para el preprocesamiento y modelado predictivo
-- **Gamestation**: Desarrollo móvil utilizando Kotlin en Android Studio de forma nativa
-- **Proyecto-Mobile-QR-Ionic**: Desarrollo Mobile con Ionic, JavaScript, Angular, TypeScript y Android Studio para generar APK
-- **Grow-Jardinería**: Desarrollo Web utilizando HTML, CSS, Bootstrap, Javascript y Django
+- **[Análisis de datos-Modelo predictivo](https://github.com/FrjGonzalezS/Analisis-de-datos---Modelo-predictivo)**: Manejo de herramientas y técnicas de análisis de datos, aplicadas para el preprocesamiento y modelado predictivo.
+- **[Gamestation](https://github.com/FrjGonzalezS/Gamestation)**: Desarrollo móvil utilizando Kotlin en Android Studio de forma nativa.
+- **[Proyecto-Mobile-QR-Ionic](https://github.com/FrjGonzalezS/Proyecto-Mobile-QR-Ionic)**: Desarrollo Mobile con Ionic, JavaScript, Angular, TypeScript y Android Studio para generar APK.
+- **[Grow-Jardinería](https://github.com/FrjGonzalezS/Grow-Jardineria)**: Desarrollo Web utilizando HTML, CSS, Bootstrap, JavaScript y Django.
+
 
 ### Contacto 📫
 - **Correo**: franciscosei@gmail.com
