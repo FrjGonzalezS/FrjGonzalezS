@@ -8,8 +8,8 @@ Poseo conocimientos en gestión de proyectos, análisis de datos, programación,
 ### Habilidades Técnicas 🛠️
 - **Lenguajes de programación**: Python, Kotlin, JavaScript y Java
 - **Bases de Datos y consultas**: SQL (SQL Server, MySQL, PostgreSQL)
-- **Desarrollo móvil**: Android Studio (Kotlin)
-- **Desarrollo web**: Ionic, Angular
+- **Desarrollo móvil**: Android Studio (Kotlin), Ionic
+- **Desarrollo web**: Django, bootstrap, CSS (JavaScript)
 - **Machine Learning**: Scikit-learn, Pandas, Numpy
 - **Ciberseguridad**: Hacking ético, kali - metasploit
 - **Control de versiones**: GitHub
@@ -17,9 +17,9 @@ Poseo conocimientos en gestión de proyectos, análisis de datos, programación,
 
 ### Experiencia
 - **Análisis de Datos**: Desarrollo de modelos predictivos para análisis de datos y minería de datos.
-- **Desarrollo Móvil**: Aplicaciones en Android utilizando Kotlin.
+- **Gamestation**: Desarrollo móvil utilizando Kotlin en Android Studio de forma nativa
 - **Desarrollo Web**: Aplicaciones con Javascript, Ionic, Angular y Android Studio.
-- **Proyecto Web**: Uso de HTML, CSS, Javascript, Django
+- **Grow-Jardinería**: Desarrollo Web utilizando HTML, CSS, Javascript y Django
 
 ### Contacto 📫
 - **Correo**: franciscosei@gmail.com
