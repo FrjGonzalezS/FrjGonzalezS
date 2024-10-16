@@ -6,20 +6,21 @@ Actualmente me encuentro trabajando en proyectos que utiliza **machine learning*
 Poseo conocimientos en gestión de proyectos, análisis de datos, programación, desarrollo web y bases de datos.
 
 ### Habilidades Técnicas 🛠️
-- **Lenguajes de programación**: Python, Kotlin, JavaScript y Java
-- **Bases de Datos y consultas**: SQL (SQL Server, MySQL, PostgreSQL)
+- **Lenguajes**: Python, Kotlin, JavaScript, Java
+- **Bases de Datos**: SQL (SQL Server, MySQL, PostgreSQL)
 - **Desarrollo móvil**: Android Studio (Kotlin), Ionic
-- **Desarrollo web**: Django, bootstrap, CSS (JavaScript)
+- **Desarrollo web**: HTML, CSS, Bootstrap
 - **Machine Learning**: Scikit-learn, Pandas, Numpy
-- **Ciberseguridad**: Hacking ético, kali - metasploit
+- **Análisis de Datos**: Preprocesamiento, modelado predictivo, visualización (Matplotlib, Seaborn)
+- **Ciberseguridad**: Hacking ético, Kali, Metasploit
 - **Control de versiones**: GitHub
-- **Metodologías de trabajo**: CRISP-DM, SCRUM, Agile
+- **Metodologías**: CRISP-DM, SCRUM, Agile
 
 ### Experiencia
-- **Análisis de Datos**: Desarrollo de modelos predictivos para análisis de datos y minería de datos.
+- **Analisis de datos-Modelo predictivo**: Manejo de herramientas y técnicas de análisis de datos, aplicadas para el preprocesamiento y modelado predictivo
 - **Gamestation**: Desarrollo móvil utilizando Kotlin en Android Studio de forma nativa
-- **Desarrollo Web**: Aplicaciones con Javascript, Ionic, Angular y Android Studio.
-- **Grow-Jardinería**: Desarrollo Web utilizando HTML, CSS, Javascript y Django
+- **Proyecto-Mobile-QR-Ionic**: Desarrollo Mobile con Ionic, JavaScript, Angular, TypeScript y Android Studio para generar APK
+- **Grow-Jardinería**: Desarrollo Web utilizando HTML, CSS, Bootstrap, Javascript y Django
 
 ### Contacto 📫
 - **Correo**: franciscosei@gmail.com
